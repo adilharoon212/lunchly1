@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "442043651336",
+    "project_id": "lunchly1-abd2f",
+    "storage_bucket": "lunchly1-abd2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442043651336:android:1667c82ef2f21f761008bd",
+        "android_client_info": {
+          "package_name": "com.proj.lunchly1_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVCo5H7FIA962BTKRKRdur5Oqg4VMGUoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
